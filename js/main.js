@@ -7,4 +7,4 @@ input.addEventListener("focus", function(){
 
 input.addEventListener("blur", function(){
     shadow.style.display = "none";
-    });
+});
